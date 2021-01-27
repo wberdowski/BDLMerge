@@ -4,5 +4,5 @@ Program do łączenia tabel z Bazy Danych Lokalnych (BDL) GUS
 <img src="https://i.imgur.com/CklDXIA.png">
 </p>
 
-# Wspierane typy plików:
+# Wspierane formaty plików:
 - Tablica wielowymiarowa (CSV)
